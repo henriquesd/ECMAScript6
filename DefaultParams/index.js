@@ -6,11 +6,3 @@ const leadSinger = (artist = "Someone") => {
 
 leadSinger("Chris Martin");
 leadSinger(); // here will use the default parameter;
-
-
-// Initial:
-// const leadSinger = () => {
-//     console.log("Chris Martin is the lead singer of Cold Play");
-// }
-
-// leadSinger();
